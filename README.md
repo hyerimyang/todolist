@@ -1,71 +1,24 @@
-# Getting Started with Create React App
+# 📌 프로젝트명 : To Do List (2020)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📎 url : 
 
-## Available Scripts
+![](https://images.velog.io/images/hyerimiya/post/c2c34f7b-1c86-47c5-9f0c-a4f6972692c8/todolist_gif.gif)
 
-In the project directory, you can run:
+![](https://images.velog.io/images/hyerimiya/post/2a876084-e2e5-44fe-b293-ca93b1c7819e/1.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ✏ 작품소개
+React로 만든 ToDoList 미니프로젝트입니다.  
+투두리스트를 처음 만들 때는 더 간단한 코드로 연습하곤 했었는데  
+reducer, context 등을 더 공부하고 나서 업그레이드 된 디자인과 기능으로 만들었습니다.  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🖱 작업 툴
+**React(reducer, useState,..)**, styled-components, react-icons
 
-### `npm test`
+## ✏ 프로젝트를 통해 배운 점
+React를 공부할 때 제일 기본적으로 만든다는 미니프로젝트가 ToDoList 라는 말을 많이 들어왔어서 쉬울거라고 예상했는데  
+기능 하나하나를 추가할 때 마다 스스로 버벅거림을 느끼게 되었습니다.  
+공부를 하면서 보고 만드는 것과 혼자 처음부터 만드는 것은 많은 차이가 있었습니다.  
+혼자 하게되면서 더욱 얻게되는게 많았고, 문제 해결하는 것에 쾌감을 느끼게 되었습니다.  
+react-icons, styled-components 를 사용하면서 디자인적인 요소도 많이 사용하면서 리액트가 더 흥미로워졌던 미니프로젝트였습니다.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# To Do List
