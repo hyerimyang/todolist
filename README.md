@@ -1,4 +1,4 @@
-# 📌 프로젝트명 : To Do List (2020)
+# 📌 To Do List (2020)
 
 # 📎 url : 
 
@@ -7,7 +7,7 @@
 ![](https://images.velog.io/images/hyerimiya/post/2a876084-e2e5-44fe-b293-ca93b1c7819e/1.png)
 
 
-## ✏ 작품소개
+## ✏ 프로젝트 소개
 React로 만든 ToDoList 미니프로젝트입니다.  
 투두리스트를 처음 만들 때는 더 간단한 코드로 연습하곤 했었는데  
 reducer, context 등을 더 공부하고 나서 업그레이드 된 디자인과 기능으로 만들었습니다.  
