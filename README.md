@@ -1,6 +1,4 @@
-# 📌 To Do List (2020)
-
-# 📎 url : 
+# 📌 [To Do List (2020)](https://hyerimyang.github.io/todolist/)
 
 ![](https://images.velog.io/images/hyerimiya/post/c2c34f7b-1c86-47c5-9f0c-a4f6972692c8/todolist_gif.gif)
 
@@ -8,12 +6,13 @@
 
 
 ## ✏ 프로젝트 소개
-React로 만든 ToDoList 미니프로젝트입니다.  
-투두리스트를 처음 만들 때는 더 간단한 코드로 연습하곤 했었는데  
-reducer, context 등을 더 공부하고 나서 업그레이드 된 디자인과 기능으로 만들었습니다.  
+React로 만든 ToDoList 프로젝트 입니다.    
+ToDoList를 맨 처음 만들 때는 더 간단한 코드로 연습하곤 했었는데   
+reducer, context 등을 더 공부하고 나서 코드가 간결해지고, 
+react-icons를 사용할 수 있게 되면서 디자인도 쉽고 예쁘게 만들 수 있었습니다.  
 
-## 🖱 작업 툴
-**React(reducer, useState,..)**, styled-components, react-icons
+## 🖱 사용 언어
+**React(reducer, useState, ..)**, styled-components, react-icons
 
 ## ✏ 프로젝트를 통해 배운 점
 React를 공부할 때 제일 기본적으로 만든다는 미니프로젝트가 ToDoList 라는 말을 많이 들어왔어서 쉬울거라고 예상했는데  
